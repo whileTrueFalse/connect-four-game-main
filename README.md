@@ -10,7 +10,7 @@
 - [Contact / Contacto](#contact)
 - [Acknowledgements / Agradecimientos](#acknowledgements)
 
-## Overview / Resumen
+## Overview 
 
 - https://jprioses-connect-four.netlify.app/
 
@@ -30,7 +30,7 @@ To start, I looked at the public images and began to make vectors and designs wi
 
 "I needed to use custom hooks and useEffect to handle state. The useEffect hook was especially important because it helped me connect the logic, timers, and states to the components."
 
-## Built with / Hecho con
+## Built with 
 
 - Create-react-app https://create-react-app.dev/
 
@@ -56,7 +56,7 @@ To start, I looked at the public images and began to make vectors and designs wi
 
     I used Figma to make all vectors and images.
 
-## Development / Desarrollo 
+## Development 
 
 1. I created the main component with 3 links to other components and styled them.
 
@@ -70,18 +70,3 @@ To start, I looked at the public images and began to make vectors and designs wi
 
 6. Finally, I saved the cpu state into local storage to persist it after refresh.
 
-## Contact / Contacto
-
-You can contact me:
-- Mail -> jprioses@outlook.com
-- Linkedin -> https://www.linkedin.com/in/jprioses/
-
-You can see my porftolio:
-- https://jprioses.github.io/Personal-React-Portfolio/
-
-## Acknowledgements / Agradecimientos
-
-- https://webguy83.github.io/connect-four-react/
-- https://webguy83.github.io/connect-four-react/
-- https://blog.bitsrc.io/5-methods-to-persisting-state-between-page-reloads-in-react-8fc9abd3fa2f
-- https://dev.to/zhiyueyi/how-to-create-a-simple-react-countdown-timer-4mc3
